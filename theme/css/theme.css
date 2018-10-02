@@ -5,16 +5,16 @@
 }
 
 body {
-  background-color: #f5f5f5;
+  background-color: #212529;
 }
 
 a {
-  color: #333;
+  color: #F0FFFF;
 }
 
 a:focus,
 a:hover {
-  color: #0085a1;
+  color: deepskyblue;
 }
 
 blockquote {
@@ -62,7 +62,7 @@ hr {
 }
 
 .main {
-  background-color: #fff;
+  background-color: #212529;
   padding: 1.5rem 0;
 }
 
